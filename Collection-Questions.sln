@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection-Question-1", "Collection-Question-1\Collection-Question-1.csproj", "{E05B74E9-E524-4BA8-83E4-636FB2BE4BF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collection-Question-1", "Collection-Question-1\Collection-Question-1.csproj", "{E05B74E9-E524-4BA8-83E4-636FB2BE4BF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection-Question-2", "Collection-Question-2\Collection-Question-2.csproj", "{F6F08DB4-FD9C-4912-B030-F2B062DB6F81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collection-Question-2", "Collection-Question-2\Collection-Question-2.csproj", "{F6F08DB4-FD9C-4912-B030-F2B062DB6F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection-Question-3", "Collection-Question-3\Collection-Question-3.csproj", "{2114F370-3644-4272-801F-8856682E2EE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F6F08DB4-FD9C-4912-B030-F2B062DB6F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6F08DB4-FD9C-4912-B030-F2B062DB6F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6F08DB4-FD9C-4912-B030-F2B062DB6F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2114F370-3644-4272-801F-8856682E2EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2114F370-3644-4272-801F-8856682E2EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2114F370-3644-4272-801F-8856682E2EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2114F370-3644-4272-801F-8856682E2EE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
